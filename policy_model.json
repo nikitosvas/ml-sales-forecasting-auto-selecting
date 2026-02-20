@@ -1,0 +1,106 @@
+[
+    {
+        "FULL_SIGN": "КП РЕГИОН Б",
+        "METRIC_NAME": "SUM_PROFIT_NO_KSP",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "BASELINE_RF_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0006,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "CATBOOST_RECURSIVE_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0011,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_SNDS",
+        "BEST_WINDOW": 60,
+        "BEST_MODEL": "BASELINE_RF_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0089,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT_NO_KSP",
+        "BEST_WINDOW": 60,
+        "BEST_MODEL": "CATBOOST_RECURSIVE_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0223,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН Б",
+        "METRIC_NAME": "SUM_SNDS",
+        "BEST_WINDOW": 120,
+        "BEST_MODEL": "BASELINE_OLS_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0662,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT",
+        "BEST_WINDOW": 60,
+        "BEST_MODEL": "CATBOOST_RECURSIVE_WMAPE",
+        "BEST_MEAN_WMAPE": 0.0767,
+        "RUN_DATE": "2026-02-05 14:40:34"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН Б",
+        "METRIC_NAME": "SUM_PROFIT_NO_KSP",
+        "BEST_WINDOW": 120,
+        "BEST_MODEL": "BASELINE_RF_WMAPE",
+        "BEST_MEAN_WMAPE": 0.12305555555555554,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT_NO_KSP",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "BASELINE_OLS_WMAPE",
+        "BEST_MEAN_WMAPE": 0.1244,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_SNDS",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "BASELINE_OLS_WMAPE",
+        "BEST_MEAN_WMAPE": 0.12454444444444444,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН Б",
+        "METRIC_NAME": "SUM_PROFIT",
+        "BEST_WINDOW": 120,
+        "BEST_MODEL": "BASELINE_RF_WMAPE",
+        "BEST_MEAN_WMAPE": 0.13233333333333333,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "BASELINE_OLS_WMAPE",
+        "BEST_MEAN_WMAPE": 0.1479222222222222,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН А",
+        "METRIC_NAME": "SUM_PROFIT",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "BASELINE_OLS_WMAPE",
+        "BEST_MEAN_WMAPE": 0.14983333333333335,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    },
+    {
+        "FULL_SIGN": "КП РЕГИОН Б",
+        "METRIC_NAME": "SUM_SNDS",
+        "BEST_WINDOW": 90,
+        "BEST_MODEL": "CATBOOST_RECURSIVE_WMAPE",
+        "BEST_MEAN_WMAPE": 0.15183333333333332,
+        "RUN_DATE": "2026-02-05 18:10:19"
+    }
+]
